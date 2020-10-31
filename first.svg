@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="14" viewBox="0 0 86 14">
+  <g id="Pagination" transform="translate(-917 -767)">
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(917 767)" fill="#fff" stroke="#ddd" stroke-linejoin="round" stroke-width="1">
+      <circle cx="7" cy="7" r="7" stroke="none"/>
+      <circle cx="7" cy="7" r="6.5" fill="none"/>
+    </g>
+    <g id="Ellipse_8_copy" data-name="Ellipse 8 copy" transform="translate(941 767)" fill="#fff" stroke="#ddd" stroke-linejoin="round" stroke-width="1">
+      <circle cx="7" cy="7" r="7" stroke="none"/>
+      <circle cx="7" cy="7" r="6.5" fill="none"/>
+    </g>
+    <g id="Ellipse_8_copy_2" data-name="Ellipse 8 copy 2" transform="translate(965 767)" fill="#fff" stroke="#ddd" stroke-linejoin="round" stroke-width="1">
+      <circle cx="7" cy="7" r="7" stroke="none"/>
+      <circle cx="7" cy="7" r="6.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_8_copy_3" data-name="Ellipse 8 copy 3" cx="3" cy="3" r="3" transform="translate(969 771)" fill="#1abc9c"/>
+    <g id="Ellipse_8_copy_2-2" data-name="Ellipse 8 copy 2" transform="translate(989 767)" fill="#fff" stroke="#ddd" stroke-linejoin="round" stroke-width="1">
+      <circle cx="7" cy="7" r="7" stroke="none"/>
+      <circle cx="7" cy="7" r="6.5" fill="none"/>
+    </g>
+  </g>
+</svg>
