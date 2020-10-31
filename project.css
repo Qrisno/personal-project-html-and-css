@@ -49,9 +49,6 @@
     background-color: transparent;
     border: 1px solid white;
     position: relative;
-}
-
-button {
     width: 200px;
     height: 60px;
     border-radius: 2px;
@@ -64,6 +61,11 @@ button {
     border: 1px solid #707070;
     position: relative;
     left: 4px;
+    width: 200px;
+    height: 60px;
+    border-radius: 2px;
+    margin-right: 7px;
+    margin-bottom: 10%;
 }
 
 .btn-text {
@@ -93,6 +95,9 @@ button {
     background-color: white;
     position: relative;
     min-width: 1170px;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    box-shadow: 0px 0px 10px 0px #000000;
 }
 
 .links>a {
@@ -105,15 +110,35 @@ button {
 
 .links {
     position: absolute;
-    left: 685px;
-    top: 37px;
+    left: 682px;
+    top: 35px;
     min-width: 850px;
     max-width: 1000px;
 }
 
 .svg2 {
-    width: 100%;
+    width: 40px;
+    height: 45px;
+}
+
+.fox {
+    font-family: lato;
+    font-size: 35.69px;
+}
+
+.logo {
+    display: flex;
     position: absolute;
+    top: 24px;
+    left: 375px;
+}
+
+.width {
+    width: 17px;
+}
+
+.bold {
+    font-weight: 900;
 }
 
 .third {
@@ -193,4 +218,61 @@ p {
     color: #A1B1BC;
     text-align: center;
     line-height: 24px;
+}
+
+.fourth {
+    width: 100%;
+    height: 501px;
+    background-color: rgba(236, 240, 241, 0.3);
+    position: relative;
+}
+
+.svg4 {
+    width: 543px;
+    height: 275px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.about {
+    font-family: lato;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 19px;
+    color: #2C3E50;
+    margin-bottom: 33px;
+}
+
+.part1 {
+    font-family: lato;
+    font-size: 14px;
+    line-height: 24px;
+    color: #A1B1BC;
+}
+
+.more {
+    width: 173.68px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid #E5E5E5;
+    border-radius: 2px;
+    margin-right: 7px;
+    margin-bottom: 10%;
+}
+
+.view {
+    font-size: 16px;
+    font-family: lato;
+    font-weight: 900;
+}
+
+.wrapper {
+    display: flex;
+    position: absolute;
+    left: 377px;
+    top: 100px;
+}
+
+.texts4 {
+    margin-right: 40px;
 }
