@@ -480,6 +480,7 @@
 .sixth {
     position: relative;
     width: 100%;
+    min-width: 1575;
     height: 540px;
     display: flex;
     flex-direction: column;
@@ -612,6 +613,7 @@
 .seventh {
     position: relative;
     width: 100%;
+    min-width: 1575;
     height: 845px;
     display: flex;
     flex-direction: column;
@@ -768,6 +770,7 @@
 }
 
 .eight {
+    min-width: 1575;
     position: relative;
     width: 100%;
     height: 711px;
