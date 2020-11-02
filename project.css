@@ -671,7 +671,7 @@
     margin-right: 33px;
 }
 
-.tags>a:first-child {
+.tags>a:hover {
     color: #1ABC9C;
 }
 
@@ -1108,6 +1108,18 @@
 }
 
 .nine {
+    position: relative;
+    width: 100%;
+    height: 881px;
+    display: flex;
+    min-width: 1575px;
+    background-color: #666666;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nine-back {
     position: relative;
     width: 100%;
     height: 881px;
