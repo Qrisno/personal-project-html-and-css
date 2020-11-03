@@ -1265,7 +1265,6 @@
     width: 100%;
     height: 1098px;
     background-color: white;
-    display: flex;
     min-width: 1575px;
     display: flex;
     flex-direction: column;
@@ -1525,7 +1524,7 @@
     margin-top: 5px;
 }
 
-.purchase {
+.purchase10 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1574,4 +1573,113 @@
     width: 1170;
     height: 150;
     border: 1px solid #EAEBEC;
+}
+
+.eleven {
+    position: relative;
+    width: 100%;
+    height: 1264;
+    min-width: 1575px;
+    background-color: rgba(236, 240, 241, 0.3);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.h11-1 {
+    text-shadow: 1px 0px 0px rgba(255, 255, 255, 1);
+    color: #2C3E50;
+    font-family: lato;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 20px;
+    margin-bottom: 50px;
+}
+
+.p11 {
+    color: #2C3E50;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: lato;
+    line-height: 40px;
+}
+
+.agwera {
+    text-align: left;
+    font-size: 14px;
+    font-family: lato;
+    color: #A1B1BC;
+    line-height: 24px;
+}
+
+.vdet11 {
+    color: #1ABC9C;
+    font-size: 15px;
+    font-family: lato;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.upper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 80px;
+    padding-right: 50px;
+    margin-bottom: 20px;
+}
+
+.right11 {
+    display: flex;
+    flex-direction: column;
+}
+
+.left11 {
+    display: flex;
+    flex-direction: column;
+}
+
+.cont11-1 {
+    display: flex;
+    flex-direction: column;
+    margin-right: 65px;
+}
+
+.cont11-2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.first11 {
+    display: flex;
+    flex-direction: column;
+}
+
+.ideas11 {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.row11 {
+    display: flex;
+}
+
+.logo11 {
+    margin-right: 7px;
+}
+
+.px20 {
+    height: 28px;
+}
+
+.lower {
+    display: flex;
+    padding-bottom: 40px;
+    padding-right: 50px;
+    justify-content: space-between;
+}
+
+.px50 {
+    width: 100px;
 }
