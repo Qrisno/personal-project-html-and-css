@@ -1818,3 +1818,698 @@
     top: 68%;
     left: 50%;
 }
+
+.thirteen {
+    position: relative;
+    min-width: 1575px;
+    width: 100%;
+    height: 775px;
+    background-color: #666666;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrp {
+    width: 100%;
+    height: 775px;
+    background-color: rgba(34, 37, 51, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont13-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 25px;
+}
+
+.left13 {
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 570;
+    height: 386;
+}
+
+.h13 {
+    font-size: 36px;
+    font-family: lato;
+    font-weight: 300;
+    line-height: 24px;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.p13 {
+    font-family: lato;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+}
+
+.ic13 {
+    font-family: fontawesome;
+    color: white;
+    font-size: 100px;
+}
+
+.input {
+    background-color: inherit;
+    border: 1px solid #636372;
+    border-radius: 3px;
+    width: 570;
+    height: 50;
+    margin-bottom: 20px;
+}
+
+.input::placeholder {
+    padding-left: 20px;
+    font-family: lato;
+    font-size: 15px;
+    color: white;
+}
+
+textarea {
+    background-color: inherit;
+    border: 1px solid #636372;
+    border-radius: 3px;
+    height: 100;
+    margin-bottom: 20px;
+}
+
+.inptbtn {
+    background-color: #1ABC9C;
+    border-radius: 3px;
+    border: transparent;
+    height: 56;
+}
+
+.icons13 {
+    width: 493;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.ic13:hover {
+    font-family: fontawesome;
+    color: #16B5D8;
+}
+
+#ic13-1 {
+    position: relative;
+}
+
+#ic13-2 {
+    position: relative;
+}
+
+#ic13-3 {
+    position: relative;
+}
+
+#ic13-4 {
+    position: relative;
+}
+
+#ic13-5 {
+    position: relative;
+}
+
+#ic13-6 {
+    position: relative;
+}
+
+#ic13-7 {
+    position: relative;
+}
+
+#ic13-8 {
+    position: relative;
+}
+
+#ic13-9 {
+    position: relative;
+}
+
+#ic13-10 {
+    position: relative;
+}
+
+#ic13-11 {
+    position: relative;
+}
+
+.ic13:hover .ptra {
+    display: block;
+}
+
+.gtst {
+    font-size: 16px;
+    font-weight: 900;
+    font-family: lato;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
+
+.ptra {
+    display: none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+.replies {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-row-gap: 25px;
+}
+
+.square13 {
+    position: relative;
+    width: 125;
+    height: 125;
+    background-color: white;
+    border: 5px solid white;
+}
+
+.square13:hover {
+    position: relative;
+    width: 125;
+    height: 125;
+    background-color: inherit;
+    border: 5px solid white;
+}
+
+.square13:hover .plus13 {
+    display: block;
+}
+
+.ptra1 {
+    display: none;
+    position: absolute;
+    left: 60%;
+    bottom: 15%;
+}
+
+.square13:hover .ptra1 {
+    display: block;
+}
+
+.plus13 {
+    display: none;
+    left: 30%;
+    top: 37%;
+    position: absolute;
+    font-family: lato;
+    font-size: 72px;
+    line-height: 24px;
+    color: white;
+}
+
+.repl1 {
+    display: flex;
+}
+
+.infos13 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    margin-left: 20px;
+}
+
+.h13-2 {
+    color: white;
+    font-family: lato;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 2px;
+}
+
+.desc13 {
+    font-family: lato;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+}
+
+.prof13 {
+    font-family: lato;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.knpk-1 {
+    width: 10;
+    height: 10;
+    background-color: white;
+    margin-right: 5px;
+}
+
+.knpk-1:hover {
+    background-color: #1BEAC1;
+}
+
+.ptraknopkebi {
+    display: flex;
+}
+
+.d13 {
+    margin-bottom: 45px;
+}
+
+.fourteen {
+    min-width: 1575px;
+    width: 100%;
+    height: 101px;
+    background-color: #222533;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons14 {
+    width: 56.79%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.parent14 {
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.f13 {
+    background: -webkit-linear-gradient(bottom, transparent, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.fifteen {
+    height: 614;
+    width: 100%;
+    min-width: 1575;
+    background-color: #1A1C27;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.px60 {
+    width: 50px;
+}
+
+.cont15 {
+    display: grid;
+    grid-template-columns: 1fr 15px 1fr 1fr;
+    padding-left: 80px;
+    padding-top: 30px;
+}
+
+.f15 {
+    position: absolute;
+    bottom: 25%;
+    left: 25%;
+    font-family: fontawesome;
+    font-size: 24px;
+    line-height: 24px;
+    color: white;
+}
+
+.fnt15 {
+    font-size: 24px;
+}
+
+.btn-15 {
+    position: relative;
+    width: 50;
+    height: 50;
+    background-color: #1ABC9C;
+    border: 1px solid #707070;
+    border-radius: 3px;
+}
+
+.h15 {
+    font-family: lato;
+    font-weight: 300;
+    font-size: 24px;
+    padding-left: 20px;
+    color: white;
+    margin-bottom: 60px;
+    ;
+}
+
+.lg15 {
+    color: white;
+    font-size: 59.49px;
+    line-height: 13.77px;
+    font-family: lato;
+    margin-bottom: 15px;
+}
+
+.tst15 {
+    height: 18px;
+    width: 5px;
+    background-color: #1ABC9C;
+}
+
+.flex15 {
+    display: flex;
+    align-items: baseline;
+}
+
+.grn15 {
+    color: #1ABC9C;
+    margin-right: 15px;
+}
+
+.pre15-1 {
+    color: #A1B1BC;
+    font-family: lato;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.input15 {
+    background-color: #222533;
+    border-radius: 3px;
+    border: transparent;
+    width: 370;
+    height: 50;
+}
+
+.inpt15 {
+    display: flex;
+}
+
+.input15::placeholder {
+    color: #A1B1BC;
+    font-family: lato;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 20px;
+}
+
+.wght {
+    font-weight: 900;
+}
+
+.square15 {
+    position: relative;
+    width: 90;
+    height: 90;
+    background-color: white;
+}
+
+.info15:hover .square15 {
+    position: relative;
+    width: 90;
+    height: 90;
+    background-color: #1ABC9C;
+}
+
+.info15:hover .ptra2 {
+    display: block;
+}
+
+.info15:hover .plus15 {
+    display: block;
+}
+
+.info15:hover .desc15 {
+    color: white;
+}
+
+.plus15 {
+    display: none;
+    left: 29%;
+    top: 35%;
+    position: absolute;
+    font-family: lato;
+    font-size: 72px;
+    line-height: 24px;
+    color: white;
+    margin-right: 20px;
+}
+
+.ptra2 {
+    display: none;
+    position: absolute;
+    left: 80%;
+    bottom: 5%;
+}
+
+.info15 {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.desc15 {
+    color: #A1B1BC;
+    line-height: 27px;
+    font-size: 16px;
+    font-family: lato;
+}
+
+.space {
+    margin-bottom: 5px;
+}
+
+.px15 {
+    width: 20px;
+}
+
+.sqr15 {
+    position: relative;
+    width: 85px;
+    height: 85px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sqr15:hover .in {
+    width: 91px;
+    height: 91px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sqr15:hover .insqr15 {
+    display: block;
+}
+
+.sqr15:hover .insqr15-2 {
+    display: block;
+}
+
+.insqr15 {
+    display: none;
+    box-sizing: content-box;
+    width: 85px;
+    height: 85px;
+    border-left: 3px solid white;
+    border-right: 3px solid white;
+    background-color: #A1B1BC;
+}
+
+.insqr15-2 {
+    display: none;
+    width: 85px;
+    height: 85px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.grid15 {
+    display: grid;
+    grid-template-columns: repeat(4, 92px);
+    grid-template-rows: repeat(3, 92px);
+    grid-column-gap: 2px;
+    margin-bottom: 10px;
+}
+
+.lst15 {
+    color: #1ABC9C;
+    font-family: lato;
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: 700;
+}
+
+.colm5-1 {
+    padding-left: 20px;
+}
+
+.colm5-3 {
+    padding-right: 20px;
+}
+
+.sixteen {
+    width: 100%;
+    height: 80px;
+    min-width: 1575px;
+    background-color: #222533;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont16 {
+    width: 100%;
+    height: 80px;
+    background-color: rgba(34, 37, 51, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont-16-1 {
+    width: 60.9%;
+    max-width: 80%;
+}
+
+.l16 {
+    font-family: lato;
+    font-size: 14px;
+    text-align: right;
+    position: relative;
+    text-decoration: none;
+    color: #A1B1BC;
+}
+
+#l16-1 {
+    position: relative;
+}
+
+#l16-1:hover {
+    color: #1ABC9C;
+}
+
+#l16-1:hover .hand16 {
+    display: block;
+}
+
+#l16-2 {
+    position: relative;
+}
+
+#l16-2:hover {
+    color: #1ABC9C;
+}
+
+#l16-2:hover .hand16 {
+    display: block;
+}
+
+#l16-3:hover {
+    color: #1ABC9C;
+}
+
+#l16-3 {
+    position: relative;
+}
+
+#l16-3:hover .hand16 {
+    display: block;
+}
+
+#l16-4:hover {
+    color: #1ABC9C;
+}
+
+#l16-4 {
+    position: relative;
+}
+
+#l16-4:hover .hand16 {
+    display: block;
+}
+
+#l16-5:hover {
+    color: #1ABC9C;
+}
+
+#l16-5 {
+    position: relative;
+}
+
+#l16-5:hover .hand16 {
+    display: block;
+}
+
+#l16-6:hover {
+    color: #1ABC9C;
+}
+
+#l16-6 {
+    position: relative;
+}
+
+#l16-6:hover .hand16 {
+    display: block;
+}
+
+.hand16 {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 90%;
+}
+
+.links16 {
+    width: 468;
+    display: flex;
+    justify-content: space-between;
+}
+
+.copy {
+    display: flex;
+    justify-content: space-between;
+}
+
+.chreli {
+    width: 519px;
+    color: #A1B1BC;
+    font-family: lato;
+    font-size: 15px;
+    line-height: 24px;
+    padding-right: 5px;
+}
+
+.grn16 {
+    color: #1ABC9C;
+}
+
+.cont-16-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.px7 {
+    width: 10px;
+}
+
+.mrg16 {
+    margin-top: 10px;
+}
