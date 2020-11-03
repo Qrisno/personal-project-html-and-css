@@ -1626,7 +1626,6 @@
     justify-content: space-between;
     align-items: center;
     padding-top: 80px;
-    
     margin-bottom: 20px;
 }
 
@@ -1676,10 +1675,146 @@
 .lower {
     display: flex;
     padding-bottom: 40px;
-    
     justify-content: space-between;
 }
 
 .px50 {
     width: 100px;
+}
+
+.twelve {
+    position: relative;
+    width: 100%;
+    height: 789px;
+    min-width: 1575px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 32.48% 32.48% 32.48%;
+    grid-template-rows: 1fr 1fr;
+    grid-row-gap: 45px;
+    grid-column-gap: 25px;
+    grid-template-areas: "one two12 three " "four five six ";
+    margin-top: 40px;
+}
+
+.one {
+    width: 385;
+    grid-area: one;
+}
+
+.two12 {
+    width: 385;
+    grid-area: two12;
+}
+
+.three {
+    width: 385;
+    grid-area: three;
+}
+
+.four {
+    width: 385;
+    grid-area: four;
+}
+
+.five {
+    width: 385;
+    grid-area: five;
+}
+
+.six {
+    width: 385;
+    grid-area: six;
+}
+
+.h12 {
+    color: #2C3E50;
+    font-family: lato;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.p12 {
+    color: #A1B1BC;
+    font-family: lato;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.icon12 {
+    color: #1ABC9C;
+    font-family: fontawesome;
+    font-size: 15px;
+}
+
+.teqstos {
+    color: #A1B1BC;
+    font-family: lato;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.ikoniani {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.rect12 {
+    position: relative;
+    width: 170px;
+    height: 200px;
+    background-color: #CCCCCC;
+    margin-right: 20px;
+}
+
+.rect12:hover {
+    position: relative;
+    width: 170px;
+    height: 200px;
+    background-color: #2C3E50;
+    margin-right: 20px;
+}
+
+.rect12:hover .hand {
+    display: block;
+}
+
+.flex12 {
+    display: flex;
+}
+
+.h12-1 {
+    font-family: lato;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    color: #2C3E50;
+    margin-bottom: 0;
+}
+
+.cont12 {
+    padding-top: 20px;
+    width: 61.7%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.hand {
+    display: none;
+    position: absolute;
+    top: 68%;
+    left: 50%;
 }
