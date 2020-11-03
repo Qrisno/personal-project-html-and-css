@@ -1676,7 +1676,7 @@
 .lower {
     display: flex;
     padding-bottom: 40px;
-    padding-right: 50px;
+    padding-left: 30px;
     justify-content: space-between;
 }
 
